@@ -49,7 +49,7 @@ module.exports = {
 
     // custom padding (css format, i.e.: `top right bottom left`)
     padding: '12px 14px',
-    termCSS: 'x-row > span { line-height: 1.35em; }',
+    termCSS: 'span { line-height: 1.35em; }',
 
     // the full list. if you're going to provide the full color palette,
     // including the 6 x 6 color cubes and the grayscale map, just provide
